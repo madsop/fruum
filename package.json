@@ -63,6 +63,6 @@
     "eslint": "^5.5.0",
     "eslint-plugin-promise": "^4.0.0",
     "eslint-plugin-standard": "^4.0.0",
-    "jasmine-node": "^1.16.0"
+    "jasmine-node": "^3.0.0"
   }
 }
